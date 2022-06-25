@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orHasson1
-- 👀 I’m interested in Python and Java
+- 👀 I’m interested in Python, C, Assembly and Java
 - 🌱 I’m currently learning computers science in Israe's open university
 - 📫 How to reach me - shabie777@gmail.com
 
